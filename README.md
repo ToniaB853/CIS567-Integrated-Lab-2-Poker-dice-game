@@ -1,4 +1,4 @@
-# CIS567-Integrated-Lab-2
+# CIS567-Integrated-Lab-2 Poker dice game
 Count Characters
 def count_char():
   # Get the input from the user
